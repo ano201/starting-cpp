@@ -17,7 +17,7 @@ int main()
     // getline(cin >> ws, name);
 
     cout << "What is your full name?: ";
-    getline(cin, name);
+    getline(cin, name); // with space
 
     cout << "what is your age?: ";
     cin >> age;
